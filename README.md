@@ -16,6 +16,7 @@ Whether you're a startup or an enterprise, I help you **move faster**, **scale c
 
 ---
 
+## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=khaeldev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaeldev&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
@@ -34,14 +35,6 @@ Whether you're a startup or an enterprise, I help you **move faster**, **scale c
 </p>
 
 ---
-
----
-
-## 📊 GitHub Stats  
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=khaeldev&show_icons=true&theme=tokyonight" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaeldev&layout=compact&theme=tokyonight" />
-</div>
 
 ---
 
