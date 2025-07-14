@@ -33,14 +33,6 @@ Whether you're a startup or an enterprise, I help you **move faster**, **scale c
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=khaeldev&theme=tokyo-night&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khaeldev&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khaeldev&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph">
-</p>
-
 ---
 
 ---
