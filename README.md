@@ -16,6 +16,35 @@ Whether you're a startup or an enterprise, I help you **move faster**, **scale c
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khaeldev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaeldev&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khaeldev&theme=tokyonight&hide_border=true" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=khaeldev&theme=tokyonight&no-bg=true&no-frame=true&column=7" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khaeldev&theme=tokyo-night&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khaeldev&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khaeldev&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph">
+</p>
+
+---
+
+---
+
 ## 📊 GitHub Stats  
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=khaeldev&show_icons=true&theme=tokyonight" />
